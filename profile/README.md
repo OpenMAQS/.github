@@ -10,4 +10,4 @@ It …
 - Serves as the foundation for your automation project or integrates seamlessly with existing frameworks
 - Thrives with the help of a dedicated community of volunteers
 
-MAQS is designed to eliminate redundant efforts and accelerate your automation development process. With our project templates, Maven, and utility libraries, you can have a robust framework up and running in no time, saving you valuable resources and time for a more effective automation solution.
+OpenMAQS is designed to eliminate redundant efforts and accelerate your automation development process. With our project templates and utility libraries, you can have a robust framework up and running in no time, saving you valuable resources and time for a more effective automation solution.
