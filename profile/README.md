@@ -1,4 +1,6 @@
-![MAQS Logo](https://github.com/MAQS-Framework/.github/blob/6ceeecb6141db5177fc2e6d6db5470c574e23e27/profile/maqsfull.png)
+<p align="center">
+  <img src="https://github.com/MAQS-Framework/.github/blob/6ceeecb6141db5177fc2e6d6db5470c574e23e27/profile/maqsfull.png" alt="MAQS Logo">
+</p>
 
 # Jumpstart Your Test Automation Journey with Ease and Efficiency!
 
